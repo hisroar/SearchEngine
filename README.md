@@ -1,5 +1,13 @@
 This is the code for my 2013 Science Fair Project.
 
+It was implemented in Python.
+
+search_engine.py: contains search engine backbone, all others inherit from this file
+search_engine_00.py: uses PageRank
+search_engine_01.py: uses WordRank and PageRank, which was the combination that worked the best
+search_engine_02.py: uses HITS
+search_engine_03.py: uses WordRank and HITS
+
 Beating Google: Development of the Web Page Ranking Algorithm WordRank in a Search Engine
 
 Abstract
