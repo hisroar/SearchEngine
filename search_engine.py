@@ -44,7 +44,7 @@ class SearchEngine:
                 if x:
                     self.save(x)
     
-    # Iterates throug the index and sorts each list of URLs
+    # Iterates through the index and sorts each list of URLs
     def sort_index(self):
         print 'Sorting indices'
         for i in self.index:
